@@ -1,7 +1,6 @@
-### About me
-Heyo, my name is Christian.
+### Heyo, my name is Christian.
 
-I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming).
+<!-- I love [anime](https://myanimelist.net/animelist/maxhero), games, [game development](https://en.wikipedia.org/wiki/Video_game_development) and [functional programming](https://en.wikipedia.org/wiki/Functional_programming). -->
 
 - 🔭 I’m currently working on [**Lift Club**](https://github.com/themaxhero/CarrierPigeon)
 - 🌱 I’m currently learning [**VIM**](https://www.vim.org/) because who doesn't want to code faster...
