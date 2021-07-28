@@ -26,7 +26,7 @@
 
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&username=christiananagnostou)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=monokai&username=christiananagnostou&langs_count=6)
 
 ### Trophies
 <p align="center">
