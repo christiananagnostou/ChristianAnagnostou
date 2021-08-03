@@ -24,6 +24,7 @@
   | [Arch-Composer](https://github.com/themaxhero/Arch-Composer) | Personal Project | My way of creating a reusable custom install of archlinux. |
   | [Helix](https://github.com/HackerExperience/Helix) | [Hacker Experience 2](https://github.com/HackerExperience)'s Backend - As an Employee | A Hacker Simulation Game | -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=monokai&username=christiananagnostou&langs_count=6)
