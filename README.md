@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=monokai&username=christiananagnostou&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=nord&username=christiananagnostou&langs_count=10)
 
 <!-- ### Trophies
 <p align="center">
