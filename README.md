@@ -1,7 +1,6 @@
-### Heyo, my name is Christian.
+### Hi, my name is Christian.
 
-- 🔭 I’m currently working on [**Lift Club**](https://github.com/christiananagnostou/workout-logger)
-- 🌱 I’m currently learning [**VIM**](https://www.vim.org/) because...it's VIM
+- I’m currently working on [**Lift Club**](https://github.com/christiananagnostou/liftclub) 💪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>
 
