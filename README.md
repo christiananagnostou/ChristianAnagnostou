@@ -1,6 +1,6 @@
 ### Hi, my name is Christian.
 
-- I’m currently working on [**Lift Club**](https://github.com/christiananagnostou/liftclub) 💪
+- I’m currently working on [**Lift Club**](https://liftclub.app) 💪
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>
 
