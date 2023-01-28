@@ -1,12 +1,12 @@
-### Hi, my name is Christian.
+- [**Lift Club**](https://liftclub.app) 💪
 
-- I’m currently working on [**Lift Club**](https://liftclub.app) 💪
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>x -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>
 
-### Most Used Languages
+<!-- ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=nord&username=christiananagnostou&langs_count=10)
-
+ -->
+ 
 <!-- ### Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
