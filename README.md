@@ -4,8 +4,6 @@ Slowly adding more and more here.
 
 Check back once and a while and you might find something you like.
 
-Take a look around!
-
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>x -->
 
