@@ -1,8 +1,6 @@
-Hi,
+Full Stack Web Dev currently working on building the future of ecommerce at Electriq.
 
-Slowly adding more and more here.
-
-Check back once and a while and you might find something you like.
+Also, the creator of <a href="https://www.liftclub.app/">Lift Club</a>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>x -->
