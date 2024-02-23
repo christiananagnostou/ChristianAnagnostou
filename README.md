@@ -1,10 +1,8 @@
-Full Stack Web Dev currently working on building the future of ecommerce at Electriq.
+<!-- Currently working on building the future of ecommerce at Vuori. -->
 
-Also, the creator of <a href="https://www.liftclub.app/">Lift Club</a>
+<!-- Also, the creator of <a href="https://www.liftclub.app/">Lift Club</a> -->
 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p>x -->
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=christiananagnostou&color=272822" alt="christiananagnostou" /> </p> -->
 
 <!-- ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=nord&username=christiananagnostou&langs_count=10)
